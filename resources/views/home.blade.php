@@ -15,8 +15,8 @@
                     @endif
 
                     {{ Name: $user['name'] }} <br>
-                    {{ Name: $user['email'] }} <br>
-                    {{ Name: $user['password'] }} <br>
+                    {{ Email: $user['email'] }} <br>
+                    {{ Password: $user['password'] }} <br>
 
                 </div>
             </div>
