@@ -2,6 +2,12 @@
 <html lang="en">
 <head>
     <title>Home</title>
+    <style>
+        body{
+            background-color: coral;
+        }
+    </style>
+
 </head>
 <body>
     <div class="container">
